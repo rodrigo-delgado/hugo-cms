@@ -19,21 +19,15 @@ intro:
     Our iBex products are all fully cloud based (operated fully online – no
     software to install) and include:
 
-
     Hotel management systems
-
 
     Cattery/kennels management systems
 
-
     Accommodation consolidator management systems
-
 
     Secure website booking screens
 
-
     Sales channel manager
-
 
     Self service check-in kiosks
 
@@ -61,4 +55,3 @@ values:
 
     In UK and Europe we are represented by oneUP.
 ---
-
