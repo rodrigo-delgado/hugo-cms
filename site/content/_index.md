@@ -3,21 +3,44 @@ title: Online Bookings & Hotel Management Systems
 subtitle: 'From B&B''s to Holiday Parks, Motels and Hotels - we have a solution for you!'
 image: /img/seekom-home-header.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: What We Do
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We provide wholly cloud based systems on a leased software as a service
+    model (SAAS).
+
+
+    Our online booking system range includes full property management, website
+    booking screens, sales channel manager, and secure credit card storage and
+    payment processing. We also provide self managed (CMS) websites. You can
+    elect to take on all or part of any of our solutions.
 intro:
-  heading: What we offer
+  heading: Products
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Our iBex products are all fully cloud based (operated fully online – no
+    software to install) and include:
+
+
+    Hotel management systems
+
+
+    Cattery/kennels management systems
+
+
+    Accommodation consolidator management systems
+
+
+    Secure website booking screens
+
+
+    Sales channel manager
+
+
+    Self service check-in kiosks
+
+
+    Hosted content managed websites
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/computers.png
     text: >-
       We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
@@ -31,11 +54,11 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Our People
+  text: >+
+    Seekom is located in Wellington, New Zealand where we have a team of 17
+    staff including support and development.
+
+    In UK and Europe we are represented by oneUP.
 ---
 
