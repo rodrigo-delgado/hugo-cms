@@ -16,6 +16,10 @@
   color: var(--off-white);
 }
 
+.bg-green {
+  background-color: var(--seekom-green);
+}
+
 .grey-1 {
   color: var(--grey-1);
 }
