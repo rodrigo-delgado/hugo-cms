@@ -7,13 +7,22 @@ contact_entries:
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
+New Zealand (Head Office)
+Seekom
+Level 2
+18 - 24 Allen Street
+Wellington 6011
+New Zealand
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Phone: +64 4 974 8008
+Web: http://seekom.com
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+United Kingdom
+CaterBook
+Lowin House
+Tregolls Road
+Truro, Cornwall TR1 2NA
+England
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Phone: +44 1840 298 298
+Web: http://www.caterbook.com
