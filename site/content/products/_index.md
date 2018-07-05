@@ -1,6 +1,5 @@
 ---
 title: Our Coffee
-type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -18,11 +17,12 @@ intro:
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/illustrations-coffee-gear.svg
-      text: >
+      text: >+
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        to fall in love with in our  seekom
+
     - image: /img/illustrations-tutorials.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -98,5 +98,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
